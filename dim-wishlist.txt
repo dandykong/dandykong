@@ -1,3 +1,6 @@
+title:Personal D2 Wish List
+description:DIM needs a better way of handling wishlists...
+
 // Wrath of Rasputin
 //notes:dandykong: "I waited ages for Ada-1 to sell this."|tags:pve
 dimwishlist:item=2216063962&perks=
