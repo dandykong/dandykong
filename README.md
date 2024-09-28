@@ -5,9 +5,9 @@
   <a href="https://www.dandykong.com">
     <img src="https://img.shields.io/badge/Website-cyan?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/daniel-harrison-418552b4/">
+  <!-- <a href="https://www.linkedin.com/in/daniel-harrison-418552b4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
+  </a> -->
 </div>
 
 ---
