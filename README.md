@@ -17,7 +17,7 @@
 <div align="center">
   <h2>My Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=dandykong&count_private=true&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dandykong" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=dandykong" alt="GitHub Streak" /></a>
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandykong&layout=compact" />
 </div>
